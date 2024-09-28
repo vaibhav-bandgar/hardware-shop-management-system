@@ -1,0 +1,124 @@
+D:\microsoft visual studio 2022\project\shop website\shop\bin\Debug\shop.exe.config
+D:\microsoft visual studio 2022\project\shop website\shop\bin\Debug\shop.exe
+D:\microsoft visual studio 2022\project\shop website\shop\bin\Debug\shop.pdb
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.FormMainManu.resources
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.Properties.Resources.resources
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.csproj.GenerateResource.cache
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.exe
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.pdb
+D:\microsoft visual studio 2022\project\shop website\shop\obj\Debug\shop.Forms.FormProduct.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\bin\Debug\shop.exe.config
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\bin\Debug\shop.exe
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\bin\Debug\shop.pdb
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Properties.Resources.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.csproj.GenerateResource.cache
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.exe
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.pdb
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Forms.FormCategories.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Forms.FormCustomer.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Forms.FormItems.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Forms.FormBilling.resources
+E:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.exe.config
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.exe
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.pdb
+E:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.exe
+E:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.pdb
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.FormMainManu.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormBilling.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormCategories.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormCustomer.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormItems.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Properties.Resources.resources
+E:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+G:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.exe.config
+G:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.exe
+G:\New folder (2)\shop website - Copy\shop\bin\Debug\shop.pdb
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.FormMainManu.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormBilling.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormCategories.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormCustomer.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Forms.FormItems.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.Properties.Resources.resources
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.csproj.GenerateResource.cache
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.exe
+G:\New folder (2)\shop website - Copy\shop\obj\Debug\shop.pdb
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.messagebox.deletemsg.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.messagebox.msg.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.MainForm.resources
+D:\microsoft visual studio 2022\project\shop website - Copy\shop\obj\Debug\shop.Forms.formContact.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\bin\Debug\shop.exe.config
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.MainForm.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Forms.formContact.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Forms.FormBilling.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Forms.FormCategories.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Forms.FormCustomer.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Forms.FormItems.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.messagebox.deletemsg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.messagebox.msg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\bin\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system\shop\bin\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\bin\Debug\shop.exe.config
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\bin\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\bin\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.MainForm.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Forms.formContact.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Forms.FormBilling.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Forms.FormCategories.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Forms.FormCustomer.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Forms.FormItems.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.messagebox.deletemsg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.messagebox.msg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\bin\Debug\shop.exe.config
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\bin\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\bin\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.MainForm.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.formContact.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.FormBilling.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.FormCategories.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.FormCustomer.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.FormItems.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.messagebox.deletemsg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.messagebox.msg.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+C:\Users\pratik nanavare\Desktop\hardware shop management system - Copy - Copy - Copy\shop\obj\Debug\shop.Forms.formSearch.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\bin\Debug\shop.exe.config
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\bin\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\bin\Debug\shop.pdb
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.MainForm.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.formContact.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.FormBilling.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.FormCategories.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.FormCustomer.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.FormItems.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Forms.formSearch.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.messagebox.deletemsg.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.messagebox.msg.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\pratik nanavare\Desktop\document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+C:\Users\pratik nanavare\Desktop\project document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\bin\Debug\shop.exe.config
+C:\Users\pratik nanavare\Desktop\project document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.exe
+C:\Users\pratik nanavare\Desktop\project document\hardware shop management system - Copy - Copy - Copy - Copy (2)\shop\obj\Debug\shop.pdb
